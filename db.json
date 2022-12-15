@@ -1,0 +1,74 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "name": "Diego",
+      "email": "diego@gmail.com",
+      "nascimento": "15/11/1996",
+      "cep": "58075-69"
+    },
+    {
+      "id": 2,
+      "name": "Jardiel",
+      "email": "jardiel@gmail.com",
+      "nascimento": "14/12/1994",
+      "cep": "58075-69"
+    },
+    {
+      "id": 3,
+      "name": "Alesssandra",
+      "email": "alessandra@gmail.com",
+      "nascimento": "11/07/1999",
+      "cep": "58075-69"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Abacaxi",
+      "preco": "R$12,50"
+    },
+    {
+      "id": 2,
+      "nome": "Banana",
+      "preco": "R$1,50"
+    }
+  ],
+  "fornecedores": [
+    {
+      "id": 1,
+      "codigo": "F0015",
+      "nome": "Agrofruti Familia"
+    },
+    {
+      "id": 2,
+      "codigo": "GKA12",
+      "nome": "Verdão"
+    },
+    {
+      "id": 3,
+      "codigo": "GKA45K",
+      "nome": "Verde Vale Distribuidora"
+    }
+  ],
+  "entregadores": [
+    {
+      "id": 1,
+      "nome": "Fernando Bezerra",
+      "cargo": "motoboy",
+      "veiculo": "NXR BROS 160"
+    },
+    {
+      "id": 2,
+      "nome": "Hulk",
+      "cargo": "carroboy",
+      "veículo": "Fusquinha"
+    },
+    {
+      "id": 3,
+      "nome": "Samuel",
+      "cargo": "bikeboy",
+      "veículo": " Bicicleta Houston Foxer Hammer 2021 21 Marchas Aro 26 Freio V-Brake"
+    }
+  ]
+}
